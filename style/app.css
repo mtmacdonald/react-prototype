@@ -3,3 +3,8 @@
 	border: 1px solid steelblue;
 	background-color: #ccc;
 }
+
+.subcomponent {
+	border: 1px solid red;
+	background-color: #eee;
+}
